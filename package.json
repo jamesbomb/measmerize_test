@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "create-vite": "^4.2.0",
+    "global": "^4.4.0",
+    "npx": "^10.2.2",
+    "vite": "^4.2.2"
+  }
+}
