@@ -1,4 +1,4 @@
-# Measmerize Software Engineering Technical Assessment
+# Software Engineering Technical Assessment
 
 ## Overview
 
